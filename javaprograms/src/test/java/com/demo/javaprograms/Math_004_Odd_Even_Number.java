@@ -1,6 +1,6 @@
 package com.demo.javaprograms;
 
-public class Program005_Odd_Even_Number {
+public class Math_004_Odd_Even_Number {
 
 	public static void main(String[] args) {
 		int n=5;

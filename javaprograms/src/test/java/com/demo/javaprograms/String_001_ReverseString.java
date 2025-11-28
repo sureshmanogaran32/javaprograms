@@ -1,6 +1,6 @@
 package com.demo.javaprograms;
 
-public class Program003_ReverseString {
+public class String_001_ReverseString {
 	public static void main(String[] args) {
 		String s = "ABCD";
 		System.out.println("Before Reverse String: "+s);
