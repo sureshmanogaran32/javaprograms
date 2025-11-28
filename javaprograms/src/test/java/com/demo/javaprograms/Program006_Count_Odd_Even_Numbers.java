@@ -1,6 +1,6 @@
 package com.demo.javaprograms;
 
-public class Program06_Count_Odd_Even_Numbers {
+public class Program006_Count_Odd_Even_Numbers {
 
 	public static void main(String[] args) {
 

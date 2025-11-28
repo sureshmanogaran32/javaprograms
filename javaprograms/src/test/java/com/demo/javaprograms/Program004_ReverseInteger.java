@@ -1,6 +1,6 @@
 package com.demo.javaprograms;
 
-public class Program04_ReverseInteger {
+public class Program004_ReverseInteger {
 
 	public static void main(String[] args) {
 		int n =1234;
