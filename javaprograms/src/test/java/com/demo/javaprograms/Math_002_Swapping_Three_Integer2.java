@@ -1,7 +1,5 @@
 package com.demo.javaprograms;
 
-import java.util.Scanner;
-
 public class Math_002_Swapping_Three_Integer2 {
 
 	public static void main(String[] args) {
