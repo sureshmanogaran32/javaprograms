@@ -1,6 +1,6 @@
 package com.demo.javaprograms;
 
-public class Array_05_Minimum_Maximum_Number {
+public class Array_005_Minimum_Maximum_Number {
 	int a[] = {10, 20, 6, 40, 50, 5 ,70, 60};
 	int min =a[0]; int max=a[0];
 	
@@ -32,7 +32,7 @@ public class Array_05_Minimum_Maximum_Number {
 
 	public static void main(String[] args) {
 		// Find Minimum and Maximum Number
-		Array_05_Minimum_Maximum_Number minmax =new Array_05_Minimum_Maximum_Number();
+		Array_005_Minimum_Maximum_Number minmax =new Array_005_Minimum_Maximum_Number();
 		minmax.minimum();
 		minmax.maximum();
 	}
